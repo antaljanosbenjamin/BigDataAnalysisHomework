@@ -1,0 +1,5 @@
+## Ignore python
+*.txt
+*.log
+python/.ipynb_checkpoints
+python/metastore_db
